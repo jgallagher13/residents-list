@@ -1,0 +1,25 @@
+.input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+.search-btn {
+    cursor: pointer;
+    background-color: #3f29ec;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+  
+.search-btn:hover {
+    background-color: #5745de;
+  }
+  
+.form-title {
+    margin-bottom: 10px;
+  }
+  

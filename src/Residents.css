@@ -1,0 +1,19 @@
+.residents-list {
+    list-style: none;
+  }
+  
+.resident {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px solid #3f29ec;
+    border-radius: 5px;
+  }
+  
+.resident:nth-child(even) {
+    background-color: #f0f0f0;
+  }
+  
+.resident:nth-child(odd) {
+    background-color: #e3f0ff;
+  }
+  
